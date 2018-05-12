@@ -1,10 +1,16 @@
 _repo: Business-For-the-Lawyers_49767
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49767-h/images/cover.jpg
 creator:
   author:
     agent_name: Robin, Ralph
     gutenberg_agent_id: '45533'
     url: http://www.gutenberg.org/2009/agents/45533
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49767#Business-For-the-Lawyers
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2015-08-23'
 gutenberg_type: Text
